@@ -231,7 +231,10 @@
             "is-core-module": "npm:@nolyfill/is-core-module@^1",
             "safe-buffer": "npm:@nolyfill/safe-buffer@^1",
             "safer-buffer": "npm:@nolyfill/safer-buffer@^1",
-            "side-channel": "npm:@nolyfill/side-channel@^1"
+            "side-channel": "npm:@nolyfill/side-channel@^1",
+           "bufferutil": "^4.0.6",
+           "nan": "^2.17.0",
+           "utf-8-validate": "^5.0.8"
         },
         "patchedDependencies": {
             "@bbob/core@4.2.0": "patches/@bbob__core@4.2.0.patch",
